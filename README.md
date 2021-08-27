@@ -1,8 +1,8 @@
 ## 😀 Greetings! 👋 
 
-### 🤓 Are you hiring?
-*[Check my freelancer profile](https://www.freelancer.com/u/CuriousCI)*, and don't hesitate to hire me! 😉 I'll be happy to build your project 🥳
-Maybe you need a remote developer part-time? No worries, you can examine my *[LinkedIn profile](https://www.linkedin.com/in/ionut-cicio-395541211/)* 
+### Do you need a developer?
+***Hire*** me on [<img alt="Freelancer.com" align="center" height="20px" src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo.svg">](https://www.freelancer.com/u/CuriousCI) I'll be happy to make your dream come true and your life easier.
+Maybe you need a **remote developer** *part-time*? Take a look at my [<img alt="LinkedIn.com" align="center" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png">](https://www.linkedin.com/in/ionut-cicio-395541211/)
 
 ### 😎 Competitive programming
 I'm striving to practice as many days in a row as possible! Am I *succeeding* 🤔? *[Check it yourself](https://codeforces.com/profile/CuriousCI)*
