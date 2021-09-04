@@ -1,6 +1,6 @@
 <!-- Better theme & code arrangement -->
 
-<center>
+<div align="center">
 	<h1>
 		😀 Greetings! 👋 
 		<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=green&right_color=red"> 
@@ -10,26 +10,24 @@
 			<img align="center" src="https://img.shields.io/github/followers/CuriousCI.svg?style=social&label=Follow&maxAge=2592000">
 		</a>
 	</h1>
-</center>
+</div>
 
 <br>
 
-<center>
+<div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true" />
-</center>
+</div>
 
 <br>
 
-<center>
-	<div style="display: flex; justify-content: center; align-items-center; max-width: 770px;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=8&card_width=270&layout=default" alt="" />
-	<span style="dipslay: inline-flex; flex-direction: column; justify-content: flex-start;">
-	<img src="https://github-readme-stats.vercel.app/api?username=curiousci&hide_title=1&show_icons=true&line_height=26"> <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI">
-	</span>
-	</div>
-</center>
-<br>
+<div align="center">
+<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=8&card_width=270&layout=default"/> #ORIGINAL -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact"/>
+<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=curiousci&hide_title=1&show_icons=true&line_height=26"> #FIX -->
+	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true">
+</div>
 
+<br>
 
 ### Do you need a developer?
 ***Hire*** me on [<img alt="Freelancer.com" align="center" height="20px" src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo.svg">](https://www.freelancer.com/u/CuriousCI) I'll be happy to make your dream come true and your life easier.
