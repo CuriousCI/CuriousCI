@@ -22,7 +22,7 @@
 
 <div align="center">
 <!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=8&card_width=270&layout=default"/> #ORIGINAL -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact&hide_border=true"/>
 <!-- 	<img src="https://github-readme-stats.vercel.app/api?username=curiousci&hide_title=1&show_icons=true&line_height=26"> #FIX -->
 	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true">
 </div>
