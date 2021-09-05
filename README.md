@@ -3,11 +3,11 @@
 <div align="center">
 	<h1>
 		😀 Greetings! 👋 
-		<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=green&right_color=red"> 
-		<img align="center" src="https://svgshare.com/i/ZhY.svg">
-		<img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"> 
-		<a href="https://github.com/CuriousCI?tab=followers">
-			<img align="center" src="https://img.shields.io/github/followers/CuriousCI.svg?style=social&label=Follow&maxAge=2592000">
+		<img align="center" src="[visitors]"> 
+		<img align="center" src="[os]">
+		<img align="center" src="[markdown]"> 
+		<a href="[follow]">
+			<img align="center" src="[followers]">
 		</a>
 	</h1>
 </div>
@@ -77,3 +77,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[visitors]: https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=green&right_color=red
+[os]: https://svgshare.com/i/ZhY.svg
+[markdown]: https://img.shields.io/badge/made%20with-markdown-1f425f.svg
+[followers]: https://img.shields.io/github/followers/CuriousCI.svg?style=social&label=Follow&maxAge=2592000
+[follow]: https://github.com/CuriousCI?tab=followers
