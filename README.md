@@ -26,8 +26,10 @@
 <!-- 	<img src="https://github-readme-stats.vercel.app/api?username=curiousci&hide_title=1&show_icons=true&line_height=26"> #FIX -->
 	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true">
 </div>
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=FFA500&hide_border=true&hide_title=true"/>
+</div>
 
-<br>
 
 ### Do you need a developer?
 ***Hire*** me on [<img alt="Freelancer.com" align="center" height="20px" src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo.svg">](https://www.freelancer.com/u/CuriousCI) I'll be happy to make your dream come true and your life easier.
