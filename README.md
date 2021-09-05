@@ -3,11 +3,11 @@
 <div align="center">
 	<h1>
 		😀 Greetings! 👋 
-		<img align="center" src="[visitors]"> 
-		<img align="center" src="[os]">
-		<img align="center" src="[markdown]"> 
-		<a href="[follow]">
-			<img align="center" src="[followers]">
+		<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=grey&right_color=yellow"> 
+		<img align="center" src="https://img.shields.io/badge/os-windows-orange.svg"> 
+		<img align="center" src="https://img.shields.io/badge/%20with-markdown-red.svg"> 
+		<a href="https://github.com/CuriousCI?tab=followershttps://github.com/CuriousCI?tab=followers">
+			<img align="center" src="https://img.shields.io/github/followers/CuriousCI.svg?style=social&label=Follow&maxAge=2592000">
 		</a>
 	</h1>
 </div>
@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true&theme=juicyfresh" />
 </div>
 
 <br>
@@ -62,23 +62,3 @@ I ***love*** typing! I think it's a really *relaxing* and *fun* activity! *[I ca
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
 <img align="left" alt="PowerShell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<!--
-**CuriousCI/CuriousCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[visitors]: https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=green&right_color=red
-[os]: https://svgshare.com/i/ZhY.svg
-[markdown]: https://img.shields.io/badge/made%20with-markdown-1f425f.svg
-[followers]: https://img.shields.io/github/followers/CuriousCI.svg?style=social&label=Follow&maxAge=2592000
-[follow]: https://github.com/CuriousCI?tab=followers
