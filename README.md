@@ -26,8 +26,9 @@
 <!-- 	<img src="https://github-readme-stats.vercel.app/api?username=curiousci&hide_title=1&show_icons=true&line_height=26"> #FIX -->
 	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true">
 </div>
+
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=FFA500&hide_border=true&hide_title=true"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=FFA500&hide_border=true&hide_title=true&point=none" width="830px"/>
 </div>
 
 
@@ -41,8 +42,11 @@ Maybe you need a **remote developer** *part-time*? Take a look at my [<img alt="
 I'm on [<img alt="Codeforces.com" align="center" height="20px" src="https://codeforces.org/s/51686/images/codeforces-logo-with-telegram.png">](https://codeforces.com/profile/CuriousCI) and I'm striving to get **365 days in a row**, check my progress!
 Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)**, [follow](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCuriousCI) for more updates! 
 
-### ⌨ Type! Type... Type!
-I ***love*** typing! I think it's a really *relaxing* and *fun* activity! *[I can type almost 80wpm](https://data.typeracer.com/pit/profile?user=curiousci)*, but I want to reach *90wpm* by the end of the year! 💻
+<!-- ### ⌨ Type! Type... Type!
+I ***love*** typing! I think it's a really *relaxing* and *fun* activity! *[I can type almost 80wpm](https://data.typeracer.com/pit/profile?user=curiousci)*, but I want to reach *90wpm* by the end of the year! 💻 -->
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20❤%20touch%20typing%20and%20VIM;I%20can%20reach%20almost%2080wpm&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22">
+</div>
 
 <hr>
 
