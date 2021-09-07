@@ -43,7 +43,7 @@ Maybe you need a **remote developer** *part-time*? Take a look at my [<img alt="
 
 
 
-<hr>
+<!-- <hr> -->
 
 <!-- ### 😎 Competitive programming
 I'm on [<img alt="Codeforces.com" align="center" height="20px" src="https://codeforces.org/s/51686/images/codeforces-logo-with-telegram.png">](https://codeforces.com/profile/CuriousCI) and I'm striving to get **365 days in a row**, check my progress!
@@ -51,11 +51,11 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 
 
 <!-- <br> -->
-<div align="center">
+<!-- <div align="center">
 	<a href="https://data.typeracer.com/pit/profile?user=curiousci">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20❤%20touch%20typing%20and%20VIM;I%20can%20reach%20almost%2080wpm!&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22">
 	</a>
-</div>
+</div> -->
 <!-- <br> -->
 
 <div align="center" width="100px">
@@ -89,4 +89,4 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dart.svg">
 </div>
-<hr>
+<!-- <hr> -->
