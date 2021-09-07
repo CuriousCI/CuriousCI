@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=true&point=none" width="840px"/>
+	<img style="margin-left: -35px" src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=true&point=none" width="870px"/>
 </div>
 
 
