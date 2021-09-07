@@ -67,7 +67,6 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/latex.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg">
@@ -87,6 +86,5 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/inkscape.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dart.svg">
 </div>
 <!-- <hr> -->
