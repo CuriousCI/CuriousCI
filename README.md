@@ -14,7 +14,7 @@
 	</h1>
 </div>
 
-<br>
+<!-- <br> -->
 
 <div align="center" >
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true&theme=oldie" />
