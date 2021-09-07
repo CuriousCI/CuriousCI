@@ -29,8 +29,8 @@
 	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true&theme=graywhite">
 </div>
 
-<div align="center" style="margin-top: -50px">
-	<img style="margin-left: -35px" src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=true&point=none" width="870px"/>
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
 </div>
 
 
