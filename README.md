@@ -64,7 +64,6 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/latex.svg">
@@ -80,7 +79,6 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rust.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/svelte.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powershell.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/freelancer.svg">
@@ -90,8 +88,5 @@ Here are some of my **[solved problems](https://github.com/CuriousCI/codeforces)
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/inkscape.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dart.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cisco.svg">
-	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg">
 </div>
 <hr>
