@@ -23,7 +23,7 @@
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
-</div> -->
+</div> 
 
 <!-- <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact&hide_border=true"/>
