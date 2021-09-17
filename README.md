@@ -14,16 +14,25 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true&theme=oldie" />
 </div>
 
+
 <br>
 
+<!-- <div align="center">
+	<img width="770px" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true&theme=graywhite&background=none">
+</div> -->
+
 <div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
+</div> -->
+
+<!-- <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact&hide_border=true"/>
 	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true&theme=graywhite">
 </div>
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
-</div>
+</div> -->
 
 <div align="center" width="100px">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg">
