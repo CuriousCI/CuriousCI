@@ -1,9 +1,9 @@
 <div align="center">
 	<h1>
-		😀 Greetings! 👋 
-		<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=grey&right_color=black"> 
-		<img align="center" src="https://img.shields.io/badge/windows-black.svg?style=flat&logo=windows"> 
-		<img align="center" src="https://img.shields.io/badge/markdown-black.svg?style=flat&logo=markdown"> 
+		😀 Greetings 🍏 
+		<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=curiuosci.curiousci&left_color=blue&right_color=green"> 
+		<img align="center" src="https://img.shields.io/badge/windows-blue.svg?style=flat&logo=windows"> 
+		<img align="center" src="https://img.shields.io/badge/markdown-green.svg?style=flat&logo=markdown"> 
 		<a href="https://github.com/CuriousCI?tab=followershttps://github.com/CuriousCI?tab=followers">
 			<img align="center" src="https://img.shields.io/github/followers/CuriousCI.svg?style=social&label=follow&maxAge=2592000">
 		</a>
@@ -11,30 +11,18 @@
 </div>
 
 <div align="center" >
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true&theme=oldie" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=curiousci&column=7&no-bg=true&no-frame=true&theme=gruvbox" />
 </div>
 
 
 <br>
 
-<!-- <div align="center">
-	<img width="770px" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true&theme=graywhite&background=none">
-</div> -->
-
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
-</div> 
-
-<!-- <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact&hide_border=true"/>
-	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true&theme=graywhite">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousci&hide_title=1&langs_count=10&card_width=270&layout=compact&hide_border=true&theme=gruvbox&bg_color=ffffff00"/>
+	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousCI&hide_border=true&background=none&theme=gruvbox_duo">
 </div>
 
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=curiousci&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
-</div> -->
-
-<div align="center" width="100px">
+<!-- <div align="center" width="100px">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg">
@@ -62,4 +50,4 @@
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/inkscape.svg">
 	<img aling="center" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg">
-</div>
+</div> -->
