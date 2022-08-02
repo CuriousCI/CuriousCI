@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+![valley landscape](valley.jpg)
+=======
 <!-- <div align="center">
 	<h1>
 		😀 Greetings 🍏
@@ -22,4 +25,5 @@
 </div>
 </div> -->
 
+>>>>>>> 83ab582771cef3dd57410ac156df6f36b20b4bb1
 ![vagabond manga landscape](landscape.jpg)
